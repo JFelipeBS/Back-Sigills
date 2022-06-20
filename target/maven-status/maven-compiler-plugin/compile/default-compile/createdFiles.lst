@@ -16,6 +16,7 @@ br/edu/ufersa/pw/sigillsback/controller/CreditCardController.class
 br/edu/ufersa/pw/sigillsback/repository/transition/EntryRepository.class
 br/edu/ufersa/pw/sigillsback/controller/EntryController.class
 br/edu/ufersa/pw/sigillsback/DTO/AccountDto.class
+br/edu/ufersa/pw/sigillsback/SigillsBackApplication$1.class
 br/edu/ufersa/pw/sigillsback/controller/TransferController.class
 br/edu/ufersa/pw/sigillsback/entity/transition/Entry.class
 br/edu/ufersa/pw/sigillsback/DTO/CreditCardDto.class
